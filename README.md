@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mohammed Elamine Zighed
+- 👀 I’m interested in development and designing.
+- 🌱 I’m currently learning testing and devops.
+- 💞️ I’m looking to collaborate on different projects on freelance to create them from scratch.
+- 📫 Contact me in my website.
