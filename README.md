@@ -1,3 +1,16 @@
+# 👋 Hi, I’m Mohammed Elamine Zighed
+
+<h3 align="center">A full-stack web developer from Algeria</h3>
+
+- 👀 I’m interested in development and designing.
+- 🌱 I’m currently learning testing and devops.
+- 💞️ I’m looking to collaborate with different developers to learn from each other more.
+- 📫 [Contact me](http://mohammedelaminzighed.com/)
+
+---
+
+# My skills
+
 ## Frontend
 
 <p>
