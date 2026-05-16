@@ -1,11 +1,17 @@
 # 👋 Hi, I’m Mohammed Elamine Zighed
 
-<h3 align="center">A full-stack web developer from Algeria</h3>
+<h3 align="center">Full-Stack Web Developer | React.js, Next.js, TypeScript, Node.js, NestJS</h3>
 
-- 👀 I’m interested in development and designing.
-- 🌱 I’m currently learning testing and devops.
-- 💞️ I’m looking to collaborate with different developers to learn from each other more.
-- 📫 [Contact me](http://mohammedelaminzighed.com/)
+I’m a full-stack web developer from Algeria with 6+ years of experience building modern, responsive, and scalable web applications. I specialize in frontend development with React.js, Next.js, TypeScript, and Tailwind CSS, while also working with backend technologies like Node.js, NestJS, MongoDB, and SQL.
+
+I care about clean UI, good architecture, performance, and building products that feel smooth and professional.
+
+- 👨‍💻 Building modern web and mobile applications
+- 🚀 Focused on React.js, Next.js, TypeScript, Tailwind CSS, Node.js, and NestJS
+- 🎨 Strong experience in UI/UX, responsive design, and pixel-perfect implementation
+- 🌱 Currently improving frontend testing, DevOps, and AI product development
+- 🤝 Open to collaboration, freelance projects, and remote opportunities
+- 📫 [Visit my portfolio](http://mohammedelaminzighed.com/)
 
 ---
 
